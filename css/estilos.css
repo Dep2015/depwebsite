@@ -536,11 +536,11 @@ body {
   }
 
   .hero__title {
-    font-size: 2rem;
+    font-size: 1.5rem;
   }
 
   .hero__paragraph {
-    font-size: 1rem;
+    font-size: 0.8rem;
   }
 
   .subtitle {
@@ -548,7 +548,7 @@ body {
   }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 400px) {
   .proyects__container {
     grid-template-columns: 28px 1fr 28px;
     gap: 0.9em;
